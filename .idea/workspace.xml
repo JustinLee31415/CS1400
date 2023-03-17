@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1591aa7b-4bf0-4272-ab7c-070f65ce2a40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS1400.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4a3e4b7f-76a7-4f86-9f3b-8ed83621a62d" />
+        <option name="url" value="https://github.com/JustinLee31415/CS1400.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N7SsJw4aIF0N7ClzhT8Oru6Wfz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pc/IdeaProjects/CS1400"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\IdeaProjects\CS1400" />
+      <recent name="C:\Users\pc\IdeaProjects\CS1400\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1591aa7b-4bf0-4272-ab7c-070f65ce2a40" name="Changes" comment="" />
+      <created>1679013839716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679013839716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
