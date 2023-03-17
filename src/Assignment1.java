@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthSpinnerUI;
-
 /*
 // AUTHOR: Justin Lee
 // FILENAME: Assignment1.java
